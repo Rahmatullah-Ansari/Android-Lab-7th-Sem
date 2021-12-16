@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Experiment-4</string>
+    <string name="go_to_next">Go to next</string>
+    <string name="welcome_in_first_activity">Welcome in first Activity</string>
+    <string name="welcome_in_second_activity">Welcome in Second Activity</string>
+    <string name="go_back">Go Back</string>
+</resources>

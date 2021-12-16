@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Androd Project/Experiment1/app/exp_2/src/main/res/layout/activity_exp2.xml" value="0.16822916666666668" />
+        <entry key="..\:/Androd Project/Experiment1/app/exp_3/src/main/res/layout/activity_exp3.xml" value="0.2" />
+        <entry key="..\:/Androd Project/Experiment1/app/exp_4/src/main/res/layout/activity_exp4.xml" value="0.146875" />
+        <entry key="..\:/Androd Project/Experiment1/app/exp_4/src/main/res/layout/activity_second.xml" value="0.16822916666666668" />
+        <entry key="..\:/Androd Project/Experiment1/app/src/main/res/layout/activity_exp_1.xml" value="0.16822916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
