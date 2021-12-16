@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#03A9F4"
+    tools:context=".exp_7">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:weightSum="2"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:id="@+id/linear"
+        android:orientation="horizontal">
+        <EditText
+            android:layout_width="0dp"
+            android:layout_weight="1.5"
+            android:hint="Type to add"
+            android:textColorHint="@color/white"
+            android:gravity="center"
+            android:singleLine="true"
+            android:id="@+id/edittext"
+            android:maxLength="50"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:layout_height="match_parent"
+            tools:ignore="Autofill,HardcodedText,TextFields" />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="Add"
+            android:gravity="center"
+            android:layout_weight="0.5"
+            android:backgroundTint="#22BA38"
+            android:id="@+id/add"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_margin="5dp"
+        android:id="@+id/listview"
+        android:layout_below="@id/linear"
+        android:layout_height="match_parent"/>
+</RelativeLayout>
