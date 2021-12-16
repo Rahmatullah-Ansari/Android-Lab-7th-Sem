@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/exp_10" />
             <option value="$PROJECT_DIR$/app/exp_2" />
             <option value="$PROJECT_DIR$/app/exp_3" />
             <option value="$PROJECT_DIR$/app/exp_3/exp_4" />
@@ -19,6 +20,8 @@
             <option value="$PROJECT_DIR$/app/exp_5" />
             <option value="$PROJECT_DIR$/app/exp_6" />
             <option value="$PROJECT_DIR$/app/exp_7" />
+            <option value="$PROJECT_DIR$/app/exp_8" />
+            <option value="$PROJECT_DIR$/app/exp_9" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

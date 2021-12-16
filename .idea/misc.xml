@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Androd Project/Experiment1/app/exp_10/src/main/res/layout/activity_exp10.xml" value="0.146875" />
         <entry key="..\:/Androd Project/Experiment1/app/exp_2/src/main/res/layout/activity_exp2.xml" value="0.16822916666666668" />
         <entry key="..\:/Androd Project/Experiment1/app/exp_3/src/main/res/layout/activity_exp3.xml" value="0.2" />
         <entry key="..\:/Androd Project/Experiment1/app/exp_4/src/main/res/layout/activity_exp4.xml" value="0.146875" />
@@ -11,6 +12,8 @@
         <entry key="..\:/Androd Project/Experiment1/app/exp_5/src/main/res/layout/activity_second.xml" value="0.16822916666666668" />
         <entry key="..\:/Androd Project/Experiment1/app/exp_6/src/main/res/layout/activity_exp6.xml" value="0.146875" />
         <entry key="..\:/Androd Project/Experiment1/app/exp_7/src/main/res/layout/activity_exp7.xml" value="0.25" />
+        <entry key="..\:/Androd Project/Experiment1/app/exp_8/src/main/res/layout/activity_exp8.xml" value="0.18" />
+        <entry key="..\:/Androd Project/Experiment1/app/exp_9/src/main/res/layout/activity_exp9.xml" value="0.33" />
         <entry key="..\:/Androd Project/Experiment1/app/src/main/res/layout/activity_exp_1.xml" value="0.16822916666666668" />
       </map>
     </option>
